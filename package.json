@@ -1,0 +1,19 @@
+{
+  "name": "eye-can-draw",
+  "version": "0.0.1",
+  "description": "draw with your eyes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eyesight",
+    "webgazer",
+    "canvas"
+  ],
+  "authors": [
+    "Emma Ramirez",
+    "Katie Low"
+  ],
+  "license": "MIT"
+}
